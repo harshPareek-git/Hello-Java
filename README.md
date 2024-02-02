@@ -9,4 +9,4 @@ SQL databases will be the primary database.
 > [!IMPORTANT]
 > Please contribute , every contribution matters :handshake:
 
-!(https://octodex.github.com/daftpunktocat-guy/)
+![Dope image](https://octodex.github.com/daftpunktocat-guy/)
