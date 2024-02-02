@@ -1,4 +1,12 @@
-# Hello-Java
-This repo contains all java code along with spring and hibernate project
+# READ ME
+
+## Project related details
+
+This repo will contains all java code and end to end projects 
 A java project will be added to this repo, which will be a web app built using java,spring,hibernate in backend and react for frontend.
 SQL databases will be the primary database. 
+
+> [!IMPORTANT]
+> Please contribute , every contribution matters :handshake:
+
+(https://octodex.github.com/daftpunktocat-guy/)
