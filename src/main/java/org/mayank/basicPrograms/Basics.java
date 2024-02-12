@@ -20,8 +20,8 @@ public class Basics {
         // calculate the perimeter using formula
          int perimeter = 2 * (length + breadth);
 
-        System.out.println("The perimeter of the given rectangle of length" + length +
-        "and breadth" + breadth + " = " + perimeter);
+        System.out.println("The perimeter of the given rectangle of length: " + length +
+        "and breadth: " + breadth + " = " + perimeter);
     }
 
     // Main method
