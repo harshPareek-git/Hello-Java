@@ -21,7 +21,7 @@ public class Basics {
          int perimeter = 2 * (length + breadth);
 
         System.out.println("The perimeter of the given rectangle of length: " + length +
-        "and breadth: " + breadth + " = " + perimeter);
+        " and breadth: " + breadth + " = " + perimeter);
     }
 
     // Main method
