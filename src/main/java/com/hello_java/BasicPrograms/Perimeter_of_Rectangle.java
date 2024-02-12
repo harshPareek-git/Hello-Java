@@ -1,4 +1,4 @@
-package org.mayank.basicPrograms;
+package com.hello_java.BasicPrograms;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author Mayank Jain
  * Hello everyone this class is used for basic programs of java for practice.
  */
-public class Basics {
+public class Perimeter_of_Rectangle {
     /**
      * Program No. 1
      * Java Program to Find the Perimeter of a Rectangle!

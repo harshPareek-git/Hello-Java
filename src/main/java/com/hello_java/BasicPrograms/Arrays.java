@@ -1,4 +1,4 @@
-package org.hello_java;
+package com.hello_java.BasicPrograms;
 /*
     This class has all the information about Arrays from Beginner to Advance
  */

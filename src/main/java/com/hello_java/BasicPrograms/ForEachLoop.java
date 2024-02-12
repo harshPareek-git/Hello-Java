@@ -1,8 +1,7 @@
-package org.hello_java;
-import java.io.*;
+package com.hello_java.BasicPrograms;
 import java.util.*;
 
-public class forEach {
+public class ForEachLoop {
     /*package whatever //do not write package name here */
 
         public static void main (String[] args) {
