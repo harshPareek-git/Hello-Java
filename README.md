@@ -1,3 +1,4 @@
+
 # JavaBootcamp Branch
 
 Welcome to the JavaBootcamp is a Learning Branch! This branch is designed to provide you with the necessary materials to learn Java programming from scratch. Whether you are a beginner or looking to refresh your Java skills, this repository contains resources to help you on your learning journey.
@@ -36,6 +37,15 @@ This repository is licensed under the Apache-2.0 license License.
 Get Started
 Ready to start learning Java? Head over to the Beginner's Guide section and dive in! Happy coding! 🚀
 
+# READ ME
+
+## Project related details
+
+This repo will contains all java code and end to end projects 
+A java project will be added to this repo, which will be a web app built using java,spring,hibernate in backend and react for frontend.
+SQL databases will be the primary database. 
+
+
 > [!IMPORTANT]
 > Please contribute , every contribution matters :handshake:
 
@@ -43,3 +53,4 @@ Ready to start learning Java? Head over to the Beginner's Guide section and dive
 
 
 
+![Dope image](https://octodex.github.com/images/daftpunktocat-guy.gif)
