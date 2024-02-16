@@ -99,18 +99,18 @@ public class Arrays {
 //        }
 
         /* Problem 5: Reverse an array */
-//        int [] arr = {1,2,3};
-//        int l = arr.length;
-//        int mid = Math.floorDiv(l,2);
-//        int temp;
-//        for (int i = 0;i<mid;i++){
-//            temp = arr[i];
-//            arr[i] = arr[l - i -1];
-//            arr[l - i -1] = temp;
-//        }
-//        for(int i=0;i<l;i++){
-//            System.out.print( arr[i] + " ");
-//        }
+        int [] arr = {1,2,3};
+        int l = arr.length;
+        int mid = Math.floorDiv(l,2);
+        int temp;
+        for (int i = 0;i<mid;i++){
+            temp = arr[i];
+            arr[i] = arr[l - i -1];
+            arr[l - i -1] = temp;
+        }
+        for (int j : arr) {
+            System.out.print(j + " ");
+        }
 
         /*Problem 6: Maximum element in an array*/
 //            int [] arr = {1,2,3,4,15,6,7,8,9};
