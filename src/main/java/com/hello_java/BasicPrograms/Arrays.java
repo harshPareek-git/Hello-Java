@@ -71,15 +71,68 @@ public class Arrays {
 
         /* Problem 3: Calculate the average marks from an array containing marks of all students in Physics using for Loop */
 
-        float [] physicsMarks ;
-        float totalMarks = 0;
-        physicsMarks = new float[]{9,5.5f,8.2f,5.2f,4,9,9.9f};
-        for(float i = 0; i < physicsMarks.length; i++){
-            totalMarks = totalMarks + i;
-        }
-        System.out.println("Average marks in physics subject is: " + totalMarks/physicsMarks.length);
+//        float [] physicsMarks ;
+//        float totalMarks = 0;
+//        physicsMarks = new float[]{9,5.5f,8.2f,5.2f,4,9,9.9f};
+//        for(float i = 0; i < physicsMarks.length; i++){
+//            totalMarks = totalMarks + i;
+//        }
+//        System.out.println("Average marks in physics subject is: " + totalMarks/physicsMarks.length);
 
 
+        /*Problem 4: Java program to add two matrices of size 2*3*/
+
+//        int [][] mat1 = {{1,2,3},{4,5,6}};
+//        int [][] mat2 = {{1,2,3},{1,2,3}};
+//        int [][] result = {{0,0,0},{0,0,0}};
+//
+//        for(int i = 0; i<mat1.length;i++){
+//            for(int j =0; j<mat1[i].length;j++){
+//                result[i][j] = mat1[i][j] + mat2[i][j];
+//            }
+//        }
+//        for (int i = 0;i<mat1.length;i++){
+//            for (int j = 0;j<mat1[i].length;j++){
+//                System.out.print(result[i][j]+ " ");
+//            }
+//            System.out.println();
+//        }
+
+        /* Problem 5: Reverse an array */
+//        int [] arr = {1,2,3};
+//        int l = arr.length;
+//        int mid = Math.floorDiv(l,2);
+//        int temp;
+//        for (int i = 0;i<mid;i++){
+//            temp = arr[i];
+//            arr[i] = arr[l - i -1];
+//            arr[l - i -1] = temp;
+//        }
+//        for(int i=0;i<l;i++){
+//            System.out.print( arr[i] + " ");
+//        }
+
+        /*Problem 6: Maximum element in an array*/
+//            int [] arr = {1,2,3,4,15,6,7,8,9};
+//            int element = Integer.MIN_VALUE;
+//            for(int i = 0;i<arr.length;i++){
+//                if(arr[i] > element) {
+//                    element = arr[i];
+//                }
+//            }
+//            System.out.println(element);
+
+        /*Problem 7: Minimum element in an array*/
+//               int [] arr = {11,12,13,4,15,6,7,8,9};
+//               int element = Integer.MAX_VALUE;
+//                for(int e:arr){
+//                if(arr[i] < element) {
+//                    element = arr[i];
+//                }
+//                }
+//                System.out.println(element);
+
+        /*Problem 8: Find array is sorted or not*/
 
 
 
