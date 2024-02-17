@@ -103,6 +103,7 @@
 
 17. Database Connectivity 
 
+
    -  JDBC (Java Database Connectivity)
    -  Basic SQL queries
 

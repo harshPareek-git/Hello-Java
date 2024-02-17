@@ -1,4 +1,9 @@
 
+<a data-hydro-click="{&quot;event_type&quot;:&quot;explore.click&quot;,&quot;payload&quot;:{&quot;click_context&quot;:&quot;REPOSITORY_CARD&quot;,&quot;click_target&quot;:&quot;REPOSITORY&quot;,&quot;click_visual_representation&quot;:&quot;REPOSITORY_IMAGE&quot;,&quot;actor_id&quot;:146609296,&quot;record_id&quot;:462900780,&quot;originating_url&quot;:&quot;https://github.com/topics/awesome-github-profiles&quot;,&quot;user_id&quot;:146609296}}" data-hydro-click-hmac="b99025b6cf5fd0c63e7303543157d33b890f3690d6dcfe59cb1424cd9504eddb" data-turbo="false" style="max-height:275px" href="/trinib/trinib" data-view-component="true" class="overflow-hidden flex-items-center rounded-top-2 Link color-border-muted border-bottom d-flex position-relative">
+      <img loading="lazy" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="trinib" class="d-block width-full">
+</a>
+
+
 # JavaBootcamp Branch
 
 Welcome to the JavaBootcamp is a Learning Branch! This branch is designed to provide you with the necessary materials to learn Java programming from scratch. Whether you are a beginner or looking to refresh your Java skills, this repository contains resources to help you on your learning journey.
@@ -54,3 +59,5 @@ SQL databases will be the primary database.
 
 
 ![Dope image](https://octodex.github.com/images/daftpunktocat-guy.gif)
+
+
