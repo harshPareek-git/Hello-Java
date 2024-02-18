@@ -54,10 +54,6 @@ SQL databases will be the primary database.
 > [!IMPORTANT]
 > Please contribute , every contribution matters :handshake:
 
-![Dope image](https://octodex.github.com/images/catstello.png)
-
-
-
 ![Dope image](https://octodex.github.com/images/daftpunktocat-guy.gif)
 
 
