@@ -6,7 +6,7 @@
 
 # Hello-Java
 
-Welcome, This repo is designed to provide you with the necessary materials to learn Java programming from scratch. Whether you are a beginner or looking to refresh your Java skills, this repository contains resources to help you on your learning journey.
+Welcome!, this repo is designed to provide you with the necessary materials to learn Java programming from scratch. Whether you are a beginner or looking to refresh your Java skills, this repository contains resources to help you on your learning journey.
 
 Getting Started
 To begin your journey into Java programming, make sure you have the following prerequisites installed:
