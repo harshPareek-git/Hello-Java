@@ -1,5 +1,5 @@
 package com.hello_java.BasicPrograms;
-
+//Varargs only used for array
 public class variableArguments {
 
     static int sum(int ...arr){
