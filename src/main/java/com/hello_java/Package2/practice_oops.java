@@ -55,11 +55,9 @@ class TommyVercity{
 
 }
 
-
 public class practice_oops {
     public static void main(String[] args) {
 //        Employee_new harsh = new Employee_new();
-//
 //        harsh.setName("Harsh Pareek");
 //        harsh.Salary = 255;
 //        System.out.println(harsh.getSalary());
@@ -84,6 +82,3 @@ public class practice_oops {
           tommy.run();
     }
 }
-
-
-
